@@ -22,9 +22,9 @@ A lista é grande e só tende a crescer! A capacidade de "enxergar" o mundo com 
 
 Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma ideia de como melhorar a precisão das descrições, adicionar novas funcionalidades ou até mesmo traduzir para outros idiomas, sua ajuda será muito bem-vinda!
 
-### Imagem do Projeto
+### O Futuro na cabeça das pessoas!!
 
-![Imagem do Projeto](https://via.placeholder.com/600x400?text=Imagem+do+Projeto)
+![Imagem do Projeto](images/Image.jpg)
 
 ### Executando o Projeto no Google Colab
 
