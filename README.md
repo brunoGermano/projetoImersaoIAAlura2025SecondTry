@@ -37,6 +37,10 @@ Você pode executar este projeto facilmente no Google Colab, um ambiente online 
 **Link para o Colab:**
 [Link para o Google Colab](https://colab.research.google.com/)
 
+
+**Link do vídeo de como executar o projeto no Google Colab:**
+[Link do vídeo](https://youtu.be/iJnQAaqtd_A)
+
 **Instruções de Execução:**
 
 1.  **Abra o link do Colab:** Clique no link acima para abrir o notebook do projeto no Google Colab.
