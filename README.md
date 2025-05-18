@@ -22,9 +22,13 @@ A lista é grande e só tende a crescer! A capacidade de "enxergar" o mundo com 
 
 Sinta-se à vontade para contribuir com este projeto! Se você tiver alguma ideia de como melhorar a precisão das descrições, adicionar novas funcionalidades ou até mesmo traduzir para outros idiomas, sua ajuda será muito bem-vinda!
 
-### O Futuro na cabeça das pessoas!!
+### O Futuro na "cabeça" das pessoas!!
 
 ![Imagem do Projeto](images/Image.jpg)
+
+### Um Futuro com mais liberdade e autonomia pra chegar onde quer que sua mente vá!!
+
+![Imagem do pessoa](images/EasyLife.png)
 
 ### Executando o Projeto no Google Colab
 
