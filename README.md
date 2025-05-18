@@ -51,3 +51,7 @@ Você pode executar este projeto facilmente no Google Colab, um ambiente online 
     * No campo "Valor", cole a chave de API que você criou no Google AI Studio.
     * Clique em "Salvar".
 5.  **Execute o código:** Execute as células do Colab em sequência (clicando no botão "Play" de cada célula) para carregar a imagem, processá-la com o modelo Gemini e ver a descrição.
+
+### Observações Finais:
+
+É importante ter em mente que o que apresentei aqui é apenas uma ideia de como a IA pode ser aplicada na visão computacional para resolver esse tipo de problema. Há um enorme potencial a ser explorado e muito a ser feito para aprimorar e expandir essa solução. Como próximo passo, pretendo desenvolver essa aplicação para dispositivos móveis, utilizando React Native ou Kotlin com Android nativo, para que possa ser utilizada de forma ainda mais acessível e prática no dia a dia das pessoas.
